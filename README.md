@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @yasinbakhtiar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi everyone! Im Yasin Bakhtiar. 
+Im 14 years old.
+I love open source projects.❤️🎈
+You can my open source projects on github!
 
-<!---
-yasinbakhtiar/yasinbakhtiar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
